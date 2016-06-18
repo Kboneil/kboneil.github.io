@@ -1,6 +1,13 @@
 Body {
   background: #B4D2AF;
 }
+H1 {
+  background:	#9370DB;
+  background-position: left top;
+  text-shadow: 0 2px #000000;
+  font-family: 'Seravek', 'Times New Roman';
+  
+}
 H3 {
   color: gray;
 }
