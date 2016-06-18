@@ -1,3 +1,7 @@
-p {
-  color: green;
+H3 {
+  color: gray;
+}
+
+H4 {
+  font-weight: bold;
 }
