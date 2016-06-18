@@ -2,8 +2,11 @@ Body {
   background: #B4D2AF;
 }
 H1 {
-  background:	#9370DB;
-  background-position: left top;
+  background:	#CDB5CD;
+  background-position: center top;
+  background size: cover;
+  padding: 250px 0;
+  margin: 30px;
   text-shadow: 0 2px #000000;
   font-family: 'Seravek', 'Times New Roman';
   
@@ -14,4 +17,7 @@ H3 {
 
 H4 {
   font-weight: bold;
+}
+H6{
+  margin:30px;
 }
