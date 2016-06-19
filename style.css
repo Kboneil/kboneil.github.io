@@ -1,10 +1,11 @@
 Body {
   background: #B4D2AF;
+
 }
 H1 {
   background:	#CDB5CD;
-  background-position:center top;
-  background size: 150px 100px, contained;
+  background-position:center;
+  background-size: 150px 100px, contained;
   padding: 250px 0;
   margin: 30px;
   text-shadow: 0 2px #000000;
