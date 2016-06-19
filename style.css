@@ -40,6 +40,10 @@ H4 {
 p {
   margin:30px;
 }
+
+H5 {
+  text-align: center ;
+}
 H6 {
    padding: 0 50px;
    text-align: right;
