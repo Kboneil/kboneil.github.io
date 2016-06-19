@@ -15,7 +15,8 @@ H1 {
   text-shadow: 0 2px #000000;
   font-family: 'Century Gothic', 'Times New Roman';
   font-size: 75px;
-  text-align: center;
+  text-align: Left;
+  letter-spacing: 2px;
 }
 
 
@@ -31,5 +32,5 @@ p {
 }
 H6 {
    padding: 0 50px;
-   text-align: left;
+   text-align: right;
 }
