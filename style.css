@@ -1,6 +1,4 @@
-body {
-    font-family: 'Courier New', 'Times New Roman';
-}
+
 .header {
     background-color: #CDB5CD;
     color: white;
@@ -31,7 +29,10 @@ body {
 
 H2 {
     text-decoration: underline;
-    font-family: 'Courier New', 'Times New Roman';
+    font-weight: bold;
+}
+H3 {
+    font-weight: bold;
 }
 
 img {
