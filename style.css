@@ -8,7 +8,7 @@
 .nav {
     line-height: 100 px;
     background-color:#B4D2AF;
-    height: 1500px;
+    height: 1000px;
     width: 200px;
     float: left;
     padding: 20px; 
@@ -19,4 +19,8 @@
     text-align: justify;
     float: left;
     padding: 20px; 
+}
+
+H1 {
+    border: 2px solid #808080;
 }
