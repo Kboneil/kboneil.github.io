@@ -6,15 +6,19 @@ Body {
 .info {
   float: right;
 }
-H1 {
+.title {
   background:	#CDB5CD;
   background-position: center;
   background-size: 150px 100px, cover;
+}
+H1 {
   text-shadow: 0 2px #000000;
   font-family: 'Ubuntu', 'Times New Roman';
   font-size: 75px;
   text-align: center;
 }
+
+
 H3 {
   color: gray;
 }
