@@ -3,7 +3,7 @@ Body {
 }
 H1 {
   background:	#CDB5CD;
-  background-position: center top;
+  background-position:center top;
   background size: 150px 100px, contained;
   padding: 250px 0;
   margin: 30px;
@@ -19,6 +19,9 @@ H3 {
 H4 {
   font-weight: bold;
 }
-H6{
+H5 {
   margin:30px;
+}
+H6 {
+  display: inline;
 }
