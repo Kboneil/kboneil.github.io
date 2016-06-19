@@ -45,7 +45,8 @@ p {
 }
 
 H5 {
-  text-align: center ;
+  text-align: center;
+  font-size: 20px;
 }
 H6 {
    padding: 0 50px;
