@@ -8,15 +8,15 @@
 .nav {
     line-height: 100 px;
     background-color:#B4D2AF;
-    height: 1000px;
-    width: 200px;
+    height: 2000px;
+    width: 500px;
     float: left;
     padding: 20px; 
 }
 
 .section {
     width: 300px;
-    text-align: center;
+    text-align: justify;
     float: left;
     padding: 20px; 
 }
