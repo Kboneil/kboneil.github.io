@@ -6,6 +6,7 @@ Body {
 .info {
   text-align: right;
   margin: 20px;
+  display:flex;
 }
 .title {
   background:	#CDB5CD;
@@ -21,7 +22,7 @@ H1 {
   text-shadow: 0 2px #000000;
   font-family: 'Century Gothic', 'Times New Roman';
   font-size: 75px;
-  text-align: Left;
+  text-align: top left;
   letter-spacing: 2px;
 }
 
