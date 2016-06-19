@@ -15,12 +15,12 @@ Body {
   background-size: 150px 100px, cover;
   border: 1px solid #FFFFFF;
   margin: 2px;
-  padding: 20px;
+  padding: 10px;
 }
   
   
 H1 {
-  text-shadow: 0 2px #000000;
+  text-shadow: 0 4px #000000;
   font-family: 'Century Gothic', 'Times New Roman';
   font-size: 75px;
   text-align: center top;
@@ -30,10 +30,12 @@ H1 {
 
 H3 {
   color: gray;
+  font-size: 20px;
 }
 
 H4 {
   font-weight: bold;
+  font-size: 15px;
 }
 p {
   margin:30px;
@@ -41,4 +43,5 @@ p {
 H6 {
    padding: 0 50px;
    text-align: right;
+   text-size: 10px;
 }
