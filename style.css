@@ -4,9 +4,10 @@ Body {
 }
 
 .info {
-  text-align: right;
+  text-align: center;
   margin: 20px;
-  display:flex;
+  display: inline;
+  padding: 10px;
 }
 .title {
   background:	#CDB5CD;
