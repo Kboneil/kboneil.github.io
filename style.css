@@ -24,6 +24,7 @@ H1 {
   font-family: 'Century Gothic', 'Times New Roman';
   font-size: 50px;
   text-align: justify;
+  text-justify: center;
   letter-spacing: 2px;
 }
 
