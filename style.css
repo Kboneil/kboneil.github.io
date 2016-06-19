@@ -2,10 +2,10 @@
     background-color: #CDB5CD;
     color: white;
     text-align: center;
-    font-family: 'Copperplate Gothic Bold', 'Times New Roman';
+    font-family: 'Courier New', 'Times New Roman';
     font-size: 20px;
     font-weight: bold;
-    letter-spacing: 10px;
+    letter-spacing: 20px;
     padding: 5px;
 }
 .nav {
@@ -28,6 +28,7 @@
 
 H2 {
     text-decoration: underline;
+    font-family: 'Courier New', 'Times New Roman';
 }
 
 img {
