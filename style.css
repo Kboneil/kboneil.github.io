@@ -7,7 +7,7 @@ Body {
   text-align: center;
   margin: 20px;
   display: inline;
-  padding: 10px;
+  margin: 10px;
 }
 .title {
   background:	#CDB5CD;
@@ -23,7 +23,7 @@ H1 {
   text-shadow: 0 2px #000000;
   font-family: 'Century Gothic', 'Times New Roman';
   font-size: 75px;
-  text-align: top left;
+  text-align: center top;
   letter-spacing: 2px;
 }
 
