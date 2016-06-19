@@ -1,55 +1,21 @@
-Body {
-  background: #B4D2AF;
-  margin-right: 30px;
-  margin-left: 30px;
+.header {
+    background-color:#CDB5CD;
+    color:white;
+    text-align:center;
+    font-family: 'Century Gothic', 'Times New Roman';
+    padding:5px;
+}
+.nav {
+    line-height:30px;
+    background-color:#B4D2AF;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
 }
 
-.info {
-  text-align: center;
-  margin: 20px;
-  display: inline;
-  margin: 10px;
-}
-
-.title {
-  background:	#CDB5CD;
-  background-position: center;
-  background-size: 100px 50px, cover;
-  border: 1px solid #FFFFFF;
-  margin: 2px;
-  padding: 10px;
-}
-  
-H1 {
-  text-shadow: 0 2px #FFFFFF;
-  font-family: 'Century Gothic', 'Times New Roman';
-  font-size: 50px;
-  text-align: center;
-  letter-spacing: 5px;
-}
-
-
-H3 {
-  color: gray;
-  font-size: 20px;
-}
-
-H4 {
-  font-weight: bold;
-  font-size: 15px;
-  margin: 15px;
-}
-
-p {
- text-align: justify;
-}
-
-H5 {
-  text-align: center;
-  font-size: 20px;
-}
-H6 {
-   padding: 0 50px;
-   text-align: right;
-   text-size: 15px;
+.section {
+    width:350px;
+    float:left;
+    padding:10px; 
 }
