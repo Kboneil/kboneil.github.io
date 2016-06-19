@@ -4,7 +4,8 @@ Body {
 }
 
 .info {
-  text-align: left;
+  text-align: right;
+  float: right;
 }
 .title {
   background:	#CDB5CD;
