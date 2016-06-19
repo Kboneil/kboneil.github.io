@@ -1,6 +1,7 @@
 Body {
   background: #B4D2AF;
-
+  margin-right: 30px;
+  margin-left: 30px;
 }
 
 .info {
@@ -9,6 +10,7 @@ Body {
   display: inline;
   margin: 10px;
 }
+
 .title {
   background:	#CDB5CD;
   background-position: center;
@@ -18,14 +20,12 @@ Body {
   padding: 10px;
 }
   
-  
 H1 {
   text-shadow: 0 2px #FFFFFF;
   font-family: 'Century Gothic', 'Times New Roman';
   font-size: 50px;
-  text-align: justify;
-  text-justify: center;
-  letter-spacing: 2px;
+  text-align: center;
+  letter-spacing: 5px;
 }
 
 
@@ -37,9 +37,11 @@ H3 {
 H4 {
   font-weight: bold;
   font-size: 15px;
+  margin: 15px;
 }
+
 p {
-  margin:30px;
+ text-align: justify;
 }
 
 H5 {
