@@ -10,7 +10,12 @@ Body {
   background:	#CDB5CD;
   background-position: center;
   background-size: 150px 100px, cover;
+  border: 1px solid #FFFFFF;
+  margin: 2px;
+  padding: 20px;
 }
+  
+  
 H1 {
   text-shadow: 0 2px #000000;
   font-family: 'Century Gothic', 'Times New Roman';
