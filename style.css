@@ -3,8 +3,8 @@ Body {
 
 }
 
-Info {
-  text-align: left;
+.info {
+  float: right;
 }
 H1 {
   background:	#CDB5CD;
