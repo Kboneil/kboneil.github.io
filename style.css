@@ -17,5 +17,6 @@
 .section {
     width: 300px;
     text-align: justified;
+    float: left;
     padding: 20px; 
 }
