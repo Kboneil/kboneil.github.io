@@ -12,7 +12,7 @@ Body {
 .title {
   background:	#CDB5CD;
   background-position: center;
-  background-size: 150px 100px, cover;
+  background-size: 150px 75px, cover;
   border: 1px solid #FFFFFF;
   margin: 2px;
   padding: 10px;
@@ -20,9 +20,9 @@ Body {
   
   
 H1 {
-  text-shadow: 0 4px #000000;
+  text-shadow: 0 2px #FFFFFF;
   font-family: 'Century Gothic', 'Times New Roman';
-  font-size: 75px;
+  font-size: 50px;
   text-align: center top;
   letter-spacing: 2px;
 }
@@ -43,5 +43,5 @@ p {
 H6 {
    padding: 0 50px;
    text-align: right;
-   text-size: 10px;
+   text-size: 15px;
 }
