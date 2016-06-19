@@ -21,6 +21,6 @@
     padding: 20px; 
 }
 
-H1 {
-    border: 2px solid #808080;
+H2 {
+    text-decoration: underline;
 }
