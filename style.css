@@ -1,6 +1,6 @@
 
 .header {
-    background-color: #CDB5CD;
+    background-image: url("https://s32.postimg.org/icav08u0l/purple_watercolor.jpg");
     color: white;
     text-align: center;
     font-family: 'Century Gothic', 'Times New Roman';
@@ -41,10 +41,3 @@ img {
    background-color:#FFFFFF;
 }
 
-.footer {
-    background-image: url("https://s32.postimg.org/icav08u0l/purple_watercolor.jpg");
-    text-align:center;
-    padding:5px; 
-    position: absolute;
-    bottom: 30px;
-}
