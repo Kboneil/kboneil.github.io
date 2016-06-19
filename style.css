@@ -1,6 +1,7 @@
 
 .header {
     background-image: url("https://s32.postimg.org/icav08u0l/purple_watercolor.jpg");
+    border:2px solid #FFFFFF;
     color: white;
     text-align: center;
     font-family: 'Century Gothic', 'Times New Roman';
@@ -8,6 +9,7 @@
     font-weight: bold;
     letter-spacing: 25px;
     padding: 5px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .nav {
     line-height: 100 px;
