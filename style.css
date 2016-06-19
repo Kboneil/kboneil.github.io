@@ -1,21 +1,21 @@
 .header {
-    background-color:#CDB5CD;
-    color:white;
-    text-align:center;
+    background-color: #CDB5CD;
+    color: white;
+    text-align: center;
     font-family: 'Century Gothic', 'Times New Roman';
-    padding:5px;
+    padding: 5px;
 }
 .nav {
     line-height: 100 px;
     background-color:#B4D2AF;
-    height:300px;
-    width:100px;
-    float:left;
-    padding:5px; 
+    height: 300px;
+    width: 100px;
+    float: left;
+    padding: 5px; 
 }
 
 .section {
     width: 400px;
-    float: left;
+    float: right;
     padding: 10px; 
 }
