@@ -45,4 +45,6 @@ img {
     background-image: url("https://s32.postimg.org/icav08u0l/purple_watercolor.jpg");
     text-align:center;
     padding:5px; 
+    position: absolute;
+    bottom: 30px;
 }
