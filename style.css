@@ -19,6 +19,7 @@
 
 .section {
     position: absolute;
+    margin-left: 230px;
     text-align: justify;
     float: left;
     padding: 20px; 
