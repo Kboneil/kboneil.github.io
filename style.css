@@ -18,7 +18,7 @@
 }
 
 .section {
-    width: 700px;
+    position: absolute;
     text-align: justify;
     float: left;
     padding: 20px; 
