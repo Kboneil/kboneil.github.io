@@ -8,7 +8,8 @@
 
 .header {
     background-image: url("https://scontent-ord1-1.xx.fbcdn.net/t31.0-8/980576_10102581872334027_473461851_o.jpg");;
-    height: 20%;
+    width: 100%;
+    position: absolute;
     color: white;
     text-align: center;
     font-family: 'Century Gothic', 'Times New Roman';
