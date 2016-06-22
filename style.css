@@ -1,3 +1,13 @@
+.top {
+    background-image: url("https://s31.postimg.org/txonuyk2z/Tajikistan.jpg" style="width:200px;height:150px;");
+}
+
+.ul {
+    list-style-type: none;
+    margin: 5px;
+    padding: 10px;
+    display: block;
+}
 
 .header {
     background-image: url("https://s32.postimg.org/icav08u0l/purple_watercolor.jpg");
