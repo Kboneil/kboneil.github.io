@@ -1,5 +1,5 @@
 .top {
-    background-image: url("https://s31.postimg.org/txonuyk2z/Tajikistan.jpg" style="width:200px;height:150px;");
+    background-image: url("https://s31.postimg.org/txonuyk2z/Tajikistan.jpg");
 }
 
 .ul {
@@ -44,6 +44,11 @@ H2 {
     text-decoration: underline;
     font-weight: bold;
 }
+H4 {
+    float: right;
+    font-style: italic;
+}
+
 H3 {
     font-weight: bold;
 }
@@ -53,4 +58,5 @@ img {
    border:2px solid #000000;
    background-color:#FFFFFF;
 }
+    
 
