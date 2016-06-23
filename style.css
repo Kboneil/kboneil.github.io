@@ -35,13 +35,13 @@ H2 {
     text-decoration: underline;
     font-weight: bold;
 }
-H4 {
-    float: right;
-    font-style: italic;
-}
+
 
 H3 {
     font-weight: bold;
+    display: inline
+    margin: 0;
+    padding: 0 20px;
 }
 
 img {
