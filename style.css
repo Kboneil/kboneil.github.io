@@ -41,16 +41,16 @@ li {
   font-weight: bold;
   margin: 0;
   padding: 0 10px;
-  border-right: 2px solid #bbb;
+  border-left: 2px solid #bbb;
+  float: right;
 }
 
 li:last-child {
-    border-right: none;
+    border-left: none;
 }
 
 ul {
   display: inline;
-  text-align: right;
 }
 
 
