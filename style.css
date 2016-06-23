@@ -38,20 +38,21 @@ H2 {
 
 li {
   display: inline;
+  font-weight: bold;
   margin: 0;
   padding: 0 10px;
+  border-right: 1px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
 }
 
 ul {
   display: inline;
 }
 
-H3 {
-    font-weight: bold;
-    display: inline
-    margin: 0;
-    padding: 0 20px;
-}
+
 
 img {
    padding:2px;
