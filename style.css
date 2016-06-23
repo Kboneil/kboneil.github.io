@@ -41,7 +41,8 @@ li {
   font-weight: bold;
   margin: 0;
   padding: 0 10px;
-  border-right: 1px solid #bbb;
+  border-right: 2px solid #bbb;
+  float: right;
 }
 
 li:last-child {
