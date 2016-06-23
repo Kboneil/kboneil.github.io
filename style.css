@@ -36,6 +36,15 @@ H2 {
     font-weight: bold;
 }
 
+li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
+
+ul {
+  display: inline;
+}
 
 H3 {
     font-weight: bold;
