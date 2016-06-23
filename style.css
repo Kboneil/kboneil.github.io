@@ -1,10 +1,13 @@
+.li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+}
 
 .ul {
-    display: inline;
-    list-style-type: none;
-    padding-right: 20px;
-    font-size: 15px;
+  display: inline;
 }
+
 
 .header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
