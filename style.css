@@ -1,22 +1,11 @@
-.li a {
-  display: inline;
-  margin: 0;
-  padding: 0 10px;
-}
-
-.ul {
-  display: inline;
-  font-size: 10px;
-}
-
 
 .header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
     background-size: cover;
     color: white;
     text-align: center;
-    font-family: 'Century Gothic', 'Times New Roman';
-    font-size: 30px;
+    font-family: 'Georgia', 'Times New Roman';
+    font-size: 35px;
     font-weight: bold;
     letter-spacing: 30px;
     padding: 5px;
