@@ -42,8 +42,6 @@ li {
   margin: 0;
   padding: 0 10px;
   border-right: 2px solid #bbb;
-  text-align: right;
-  margin-right: 10px;
 }
 
 li:last-child {
@@ -52,6 +50,7 @@ li:last-child {
 
 ul {
   display: inline;
+  text-align: right;
 }
 
 
