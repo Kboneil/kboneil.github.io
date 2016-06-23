@@ -1,4 +1,4 @@
-.li {
+.li a {
   display: inline;
   margin: 0;
   padding: 0 10px;
@@ -6,6 +6,7 @@
 
 .ul {
   display: inline;
+  font-size: 10px;
 }
 
 
