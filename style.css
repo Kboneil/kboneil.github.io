@@ -43,6 +43,7 @@ li {
   padding: 0 10px;
   border-right: 2px solid #bbb;
   text-align: right;
+  margin-right: 10px;
 }
 
 li:last-child {
