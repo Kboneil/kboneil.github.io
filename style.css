@@ -8,7 +8,8 @@
 
 .header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
-    width: 100%;
+    max-width: 100%;
+    height: auto;
     color: white;
     text-align: center;
     font-family: 'Century Gothic', 'Times New Roman';
