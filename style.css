@@ -42,7 +42,7 @@ li {
   margin: 0;
   padding: 0 10px;
   border-right: 2px solid #bbb;
-  float: right;
+  text-align: right;
 }
 
 li:last-child {
