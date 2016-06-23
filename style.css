@@ -1,9 +1,9 @@
 
-.ul {
+.li {
     list-style-type: none;
     margin: 5px;
     padding: 10px;
-    display: block;
+    display: inline;
     font-size: 15px;
 }
 
