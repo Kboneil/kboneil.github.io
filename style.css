@@ -25,7 +25,7 @@
 
 .section {
     position: absolute;
-    margin-left: 230px;
+    margin-left: 240px;
     text-align: justify;
     float: left;
     padding: 20px; 
@@ -60,6 +60,7 @@ h4 {
 p1 {
     font-size: 20px;
     text-align: center;
+    font-family: 'Georgia', 'Times New Roman';
 }
 
 img {
