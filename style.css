@@ -20,14 +20,14 @@ body {
     background-color:#8DAAD1;
     background-size: cover;
     height: 100%;
-    width: 210px;
+    width: 215px;
     float: left;
-    padding: 20px;
+    padding: 25px;
 }
 
 .section {
     position: absolute;
-    margin-left: 240px;
+    margin-left: 245px;
     text-align: justify;
     float: left;
     padding: 20px; 
