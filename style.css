@@ -1,5 +1,5 @@
 body {
-    font-family: 'Georgia', 'Times New Roman';
+    font-family: 'consolas', 'Times New Roman';
 }
 .header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
@@ -20,14 +20,14 @@ body {
     background-color:#8DAAD1;
     background-size: cover;
     height: 100%;
-    width: 220px;
+    width: 210px;
     float: left;
-    padding: 25px;
+    padding: 20px;
 }
 
 .section {
     position: absolute;
-    margin-left: 250px;
+    margin-left: 240px;
     text-align: justify;
     float: left;
     padding: 20px; 
