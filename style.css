@@ -1,5 +1,5 @@
 body {
-    font-family: 'bodoni MT', 'Times New Roman';
+    font-family: 'Times New Roman';
     text-align: justify;
 }
 .header {
@@ -7,7 +7,7 @@ body {
     background-size: cover;
     color: white;
     text-align: center;
-    font-family: 'Georgia', 'Times New Roman';
+    font-family: 'bodoni MT', 'Times New Roman';
     font-size: 35px;
     font-weight: bold;
     letter-spacing: 30px;
