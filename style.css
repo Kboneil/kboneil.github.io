@@ -23,11 +23,6 @@ body {
     width: 210px;
     float: left;
     padding: 20px;
-    background-attachment: fixed;
-    position: absolute;
-    margin-bottom:10px;
-    
-   
 }
 
 .section {
