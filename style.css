@@ -1,8 +1,4 @@
-.footer {
-    background-image: url("https://s31.postimg.org/r2ozrreuj/Georgia_2.jpg");
-    background-size: cover;
-    background-position: bottom;
-}
+
 .header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
     background-size: cover;
@@ -25,7 +21,6 @@
     float: left;
     padding: 20px;
     background-attachment: fixed;
-    min-height: 100%;
     position: absolute;
     
    
@@ -75,6 +70,10 @@ img {
    padding:2px;
    border:2px solid #000000;
    background-color:#FFFFFF;
+}
+
+body {
+  border: 5px gray;
 }
     
 
