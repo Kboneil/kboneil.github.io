@@ -1,6 +1,7 @@
 
 .body {
     font-family: 'Georgia', 'Times New Roman';
+    border: 5px solid #B5B6C3;
 }
 .header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
@@ -75,8 +76,5 @@ img {
    background-color:#FFFFFF;
 }
 
-.html {
-  border: 5px solid #B5B6C3;
-}
     
 
