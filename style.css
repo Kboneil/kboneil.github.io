@@ -15,12 +15,12 @@
 .nav {
     line-height: 100 px;
     background-color:#8DAAD1;
+    background-size: cover;
     height: 100%;
     width: 210px;
     float: left;
     padding: 20px;
     position: absolute;
-    margin-bottom: 10px;
 }
 
 .section {
