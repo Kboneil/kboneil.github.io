@@ -34,24 +34,3 @@ h1 {
     background-color: #efefef;
 }
 
-.footer {
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-    height:50px;
-    background-color: #efefef;
-}
-.footer li {
-    list-style-type:none;
-    display: inline;
-    text-align:center;
-}
-
-.footer li:first-child {
-    left: 10px;
-}
-
-.footer li:last-child {
-    right: 10px;
-}
-
