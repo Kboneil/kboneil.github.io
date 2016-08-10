@@ -5,6 +5,10 @@ body {
 header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
     background-size: cover;
+ 
+}
+
+h1 {
     color: white;
     text-align: center;
     font-family: 'bodoni MT', 'Times New Roman';
