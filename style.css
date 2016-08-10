@@ -28,7 +28,7 @@ H2 {
     font-weight: bold;
 }
 
-li {
+ul: location li{
   display: inline;
   font-weight: bold;
   margin: 0;
@@ -37,7 +37,7 @@ li {
   float: right;
 }
 
-li:last-child {
+ul: location li:last-child {
     border-left: none;
 }
 
