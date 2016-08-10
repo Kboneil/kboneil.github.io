@@ -38,13 +38,15 @@ h1 {
 }
 
 .footer {
-    display: inline;
-    list-style-type:none;
     position: absolute;
     width: 100%;
     bottom: 0;
     height:50px;
     background-color: #efefef;
+}
+.footer li {
+    list-style-type:none;
+    display: inline;
 }
 
     
