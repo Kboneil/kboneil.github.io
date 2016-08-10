@@ -46,6 +46,7 @@ h1 {
 .footer li {
     list-style-type:none;
     display: inline;
+    text-align:center;
 }
 
     
