@@ -26,13 +26,6 @@ body {
     padding: 20px;
 }
 
-.section {
-    position: absolute;
-    margin-left: 240px;
-    text-align: justify;
-    float: left;
-    padding: 20px; 
-}
 
 H2 {
     font-weight: bold;
