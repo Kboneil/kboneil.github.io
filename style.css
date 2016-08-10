@@ -1,8 +1,13 @@
-body {
-    font-family: 'Times New Roman';
-    text-align: justify;
-    padding-bottom:30px;
+html, body, header, footer, h1 {
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
+
+body {
+    padding-bottom: 50px;
+}
+
 header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
     background-size: cover;
@@ -33,10 +38,12 @@ h1 {
 }
 
 .footer {
+    display: inline;
+    list-style-type:none;
     position: absolute;
     width: 100%;
     bottom: 0;
-    height:30px;
+    height:50px;
     background-color: #efefef;
 }
 
