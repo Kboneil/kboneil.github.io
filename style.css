@@ -17,9 +17,10 @@ header {
 }
 
 nav {
-    font-size: 10px
-    display:inline;
+    font-size: 5px
+    display: inline;
     float: left;
+    text-decoration:none;
    
 }
 
