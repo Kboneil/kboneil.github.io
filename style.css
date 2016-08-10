@@ -30,7 +30,7 @@ h1 {
     background-color: #efefef;
 }
 
-.footer li {
+.footer {
     list-style-type:none;
     display: inline;
     padding: 30px;
