@@ -28,22 +28,6 @@ H2 {
     font-weight: bold;
 }
 
-ul: location li{
-  display: inline;
-  font-weight: bold;
-  margin: 0;
-  padding: 0 10px;
-  border-left: 2px solid #bbb;
-  float: right;
-}
-
-ul: location li:last-child {
-    border-left: none;
-}
-
-ul {
-  display: inline;
-}
 
 h4 {
     float: right;
