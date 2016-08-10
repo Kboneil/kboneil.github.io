@@ -21,12 +21,18 @@ h1 {
 }
 
 .nav {
-    display: inline;
+    display: inline-block;
+    float:right;
     text-decoration:none;
     list-style-type:none;
-   
+    color:white;
+    background-color: gray;
 }
 
+.footer {
+    list-style-type:none;
+    display: inline-block;
+}
 
     
 
