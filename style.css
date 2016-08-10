@@ -2,7 +2,7 @@ body {
     font-family: 'Times New Roman';
     text-align: justify;
 }
-.header {
+header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
     background-size: cover;
     color: white;
