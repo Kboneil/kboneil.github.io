@@ -6,6 +6,7 @@ header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
     background-size: cover;
     padding: 20px;
+    
  
 }
 
@@ -33,11 +34,10 @@ h1 {
 .footer li{
     list-style-type:none;
     display: inline;
-    padding: 30px;
     position: absolute;
-    right: 0;
+    width: 100%;
     bottom: 0;
-    left: 0;
+    height:30px;
     background-color: #efefef;
 }
 
