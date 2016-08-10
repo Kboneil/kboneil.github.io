@@ -32,9 +32,7 @@ h1 {
     background-color: #efefef;
 }
 
-.footer li{
-    list-style-type:none;
-    display: inline;
+.footer {
     position: absolute;
     width: 100%;
     bottom: 0;
