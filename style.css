@@ -1,4 +1,4 @@
-html, body, header, footer, section, h1, h2, h3, h4, h5, p, ul, li, a, form, figure, figcaption {
+html, body, header, footer, section, h1, h2, h3, h4, h5, p, ul, li, a, form, figure, figcaption, aside {
     padding: 0;
     margin: 0;
     border: 0;
@@ -161,7 +161,7 @@ images1 {
     float: left;
 }
 
-article {
+aside {
     position: absolute;
     float:right;
     background-color: white;
