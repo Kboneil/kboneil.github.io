@@ -94,7 +94,7 @@ a:hover {
     float:right;
     margin: 5px;
     border-left: 2px solid gray;
-    padding:5px;
+    padding:5px 5px 5px 15px;
     font-size: 18px;
     border-radius: 0;
  
@@ -102,7 +102,6 @@ a:hover {
 .location li: first-child {
     float: left;
     border: none;
-    padding-right: 10px;
 }
 
 .location li:last-child {
