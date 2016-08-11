@@ -15,7 +15,9 @@ section {
     background: #efefef;
     padding: 15px;
     border-radius: 15px;
+    border:15px;
 }
+
 header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
     background-size: cover;
@@ -60,16 +62,19 @@ h1 {
 Primrose {
     background-image: url("http://a.mktgcdn.com/p/9ERLNVJswcYcyyVcMdxe3rwznFcRlplUJEYP2pJlCHs/679x453.jpg");
     opacity: .10;
+    background-size: cover;
 }
 
 Crear {
     background-image: url("https://s9.postimg.org/go9jv9rvj/2006_01_22_12_52_42.jpg");
     opacity: .10;
+    background-size: cover;
 }
 
 CTLC {
     background-image: url("http://i.telegraph.co.uk/multimedia/archive/01809/school_1809908c.jpg");
     opacity: .10;
+    background-size: cover;
 }
 
 label, input {
