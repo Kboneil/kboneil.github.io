@@ -64,11 +64,6 @@ h1 {
 .header li:first-child {
     border-left: none;
     
-About {
-    display:inline;
-    float:right;
-}
-
 
 Primrose {
     background-image: url("http://a.mktgcdn.com/p/9ERLNVJswcYcyyVcMdxe3rwznFcRlplUJEYP2pJlCHs/679x453.jpg");
