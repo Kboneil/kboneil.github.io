@@ -55,8 +55,8 @@ h1 {
 .header li {
     list-style-type:none;
     display: inline;
-    text-align:center;
-    padding: 40px;
+    text-align:justify;
+    float:center;
 }
 
 Primrose {
