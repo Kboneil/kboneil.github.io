@@ -152,22 +152,16 @@ input[type=submit] {
 
 .images {
     list-style-type:none;
-    padding:0;
-}
-
-.images li {
+    padding:15px;
     display:inline;
 }
+
 
 headshot {
     float: right;
     padding: 15px;
 }
 
-figure {
-    display:inline;
-    float:center;
-}
 
 figcaption {
     text-align:center ;
