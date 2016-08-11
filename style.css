@@ -15,7 +15,7 @@ section {
     background: #efefef;
     padding: 15px;
     border-radius: 15px;
-    border:30px;
+    border:15px;
 }
 
 header {
@@ -57,7 +57,7 @@ h1 {
     display: inline;
     text-align:justify;
     float:center;
-    padding: 20px;
+    padding: 10px;
     border-left: 2px solid gray;
 }
 
