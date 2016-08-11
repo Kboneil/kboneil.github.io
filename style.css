@@ -150,11 +150,13 @@ input[type=submit] {
     margin: 10px;
 }
 
-.images li {
+.images {
     list-style-type:none;
-    display: inline;
-    float: center;
-    padding: 15px;
+    padding:0;
+}
+
+.images li {
+    display:inline;
 }
 
 headshot {
