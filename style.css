@@ -68,7 +68,7 @@ a:hover {
  
 }
 
-.location li:first-child {
+.location li:last-child {
     border-left: none;
 }
 
