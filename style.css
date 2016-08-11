@@ -158,11 +158,11 @@ input[type=submit] {
     padding: 0 15px 0 15px;
 }
 images1 {
-    float:left;
+    display:inline;
 }
 
 images2 {
-    float:right;
+    display:inline;
 }
 
 headshot {
