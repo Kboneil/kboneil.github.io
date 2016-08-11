@@ -34,3 +34,26 @@ h1 {
     background-color: #efefef;
 }
 
+.header li {
+    list-style-type:none;
+    display: inline;
+    text-align:center;
+    padding: 20px;
+}
+
+Primrose {
+    background-image: url("http://a.mktgcdn.com/p/9ERLNVJswcYcyyVcMdxe3rwznFcRlplUJEYP2pJlCHs/679x453.jpg")
+    opacity: .10;
+}
+
+Crear {
+    background-image: url("http://www.travelcostaricaonline.com/image-files/playa-samara-costa-rica.jpg");
+    opacity: .10;
+}
+
+CTLC {
+    background-image: url("http://i.telegraph.co.uk/multimedia/archive/01809/school_1809908c.jpg");
+    opacity: .10;
+}
+
+
