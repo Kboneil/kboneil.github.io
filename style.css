@@ -114,7 +114,11 @@ input[type=text] {
 }
 
 input[type=submit] {
-    border: 2px solid gray;;
+    font-size: 15px;
+}
+input[type=submit] {
+    border: 2px solid gray;
+    font-size: 15px;
 }
 
 .prox li {
