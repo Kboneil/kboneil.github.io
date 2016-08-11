@@ -36,9 +36,10 @@ h1 {
     float:right;
     padding: 10px;
     background-color: #efefef;
+    border-radius: 15px;
 }
 
-.nav {
+.nav ul {
     text-decoration:none;
     list-style-type:none;
     color:white;
