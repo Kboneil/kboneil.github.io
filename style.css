@@ -8,11 +8,10 @@ html, body, header, footer, h1 {
 
 body {
     background: gray;
-    padding: 25px;
 }
 
 section {
-    margin:15px;
+    margin:30px;
     background: #efefef;
     padding: 15px;
     border-radius: 15px;
