@@ -7,7 +7,7 @@ html, body, header, footer, section, h1, h2, h3, h4, h5, p, ul, li, a, form, fig
 }
 
 body {
-    background: gray;
+    background: #5C7780 url(https://s9.postimg.org/bmtdmhjgv/wild_flowers.png) top left repeat;
 }
 
 section {
@@ -44,6 +44,7 @@ h2 {
     text-transform:uppercase;
     border-bottom: 2px solid gray;
     padding:15px;
+    color:#5C7780;
 }
 
 h3 {
