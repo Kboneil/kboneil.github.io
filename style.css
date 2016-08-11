@@ -8,6 +8,7 @@ html, body, header, footer, h1 {
 
 body {
     background: gray;
+    padding: 25px;
 }
 
 section {
