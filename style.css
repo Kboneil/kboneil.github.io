@@ -72,7 +72,7 @@ a:hover {
 
 .header li:first-child {
     border-left: none;
-    
+}
 
 label, input {
     display:block;
