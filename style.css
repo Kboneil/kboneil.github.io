@@ -159,14 +159,14 @@ input[type=submit] {
 }
 images1 {
     float: left;
-    background: white;
 }
 
 article {
     position: absolute;
     float:right;
-    background: white;
+    background-color: white;
     border-radius: 5px;
+    padding-left:15px;
 }
 headshot {
     float: right;
