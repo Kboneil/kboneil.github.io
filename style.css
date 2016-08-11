@@ -15,7 +15,6 @@ section {
     background: #efefef;
     padding: 15px;
     border-radius: 15px;
-    border:15px;
 }
 
 header {
@@ -61,7 +60,7 @@ h1 {
     border-left: 2px solid gray;
 }
 
-.header li:last-child {
+.header li:first-child {
     border-left: none;
 
 
