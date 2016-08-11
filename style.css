@@ -64,7 +64,7 @@ h1 {
 .header li:first-child {
     border-left: none;
     
-article {
+About {
     display:inline;
     float:right;
 }
