@@ -56,9 +56,9 @@ h1 {
     display: inline;
     text-align:justify;
     float:center;
-    padding: 5px;
+    margin: 5px;
     border-left: 2px solid gray;
-    line-height:10px;
+    line-height:15px;
 }
 
 .header li:first-child {
