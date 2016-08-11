@@ -87,9 +87,9 @@ a:hover {
 }
 
 .ctlc {
-    background: url("http://i.telegraph.co.uk/multimedia/archive/01809/school_1809908c.jpg");
-    opacity: .10;
+    background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
     background-size: cover;
+    padding: 20px;
 }
 
 label, input {
