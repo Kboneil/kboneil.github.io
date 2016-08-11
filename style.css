@@ -164,6 +164,8 @@ images1 {
 aside {
     position: absolute;
     float:right;
+    background-color: white;
+    border-radius: 5px;
     padding-left:15px;
     margin-left:230px;
 }
