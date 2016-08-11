@@ -166,7 +166,7 @@ headshot {
 
 figure {
     display:inline;
-    position: center;
+    float:center;
 }
 
 figcaption {
