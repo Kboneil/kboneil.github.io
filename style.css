@@ -119,7 +119,10 @@ input[type=submit] {
 
 .prox li {
     list-style-type:none;
-    background:blue;
+    padding: 5px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 5px;
 }
 
 .contact li {
