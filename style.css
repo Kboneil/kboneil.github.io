@@ -57,6 +57,8 @@ h1 {
     display: inline;
     text-align:center;
     padding: 20px;
+    right: 20px;
+    left: 20px;
 }
 
 Primrose {
