@@ -121,15 +121,15 @@ input[type=text] {
     width: 300px;
     height: 75px;
     border: 2px solid gray;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 input[type=email] {
-    font-size: 20px;
+    font-size: 15px;
 }
 input[type=submit] {
     border: 2px solid gray;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .prox li {
