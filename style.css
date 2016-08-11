@@ -90,6 +90,22 @@ input[type=submit] {
     border: 2px solid gray;;
 }
 
+.proX {
+    list-style-type:none;
+}
+
+.location {
+    list-style-type:none;
+}
+
+.contact {
+    list-style-type:none;
+}
+
+.school {
+    list-style-type:none;
+}
+
 
 
 
