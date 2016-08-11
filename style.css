@@ -139,6 +139,7 @@ input[type=submit] {
 .contact li {
     list-style-type:none;
     padding: 10px 15px 10px 15px;
+    font-size:20px;
 }
 
 .school li {
@@ -153,10 +154,12 @@ input[type=submit] {
     list-style-type:none;
     display: inline;
     float: center;
+    padding: 15px;
 }
 
 headshot {
     float: right;
+    padding: 15px;
 }
 
 
