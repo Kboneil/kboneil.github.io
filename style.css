@@ -43,6 +43,7 @@ h2 {
     letter-spacing:10px;
     text-transform:uppercase;
     border-bottom: 2px solid gray;
+    padding:15px;
 }
 
 h3 {
@@ -51,14 +52,15 @@ h3 {
     font-weight:bold;
     letter-spacing:5px;
     text-transform:uppercase;
+    padding: 10px;
 }
 
 h4 {
-    font-size:15px;
+    font-size:20px;
 }
 
 p {
-    font-size:10px;
+    font-size:18px;
 }
 
 .nav li {
@@ -91,6 +93,7 @@ a:hover {
     margin: 5px;
     border-left: 2px solid gray;
     padding:5px;
+    font-size: 18px;
  
 }
 
@@ -116,6 +119,7 @@ input[type=submit] {
 
 .prox li {
     list-style-type:none;
+    background:blue;
 }
 
 .contact li {
