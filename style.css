@@ -152,15 +152,15 @@ input[type=submit] {
 
 .images {
     list-style-type:none;
-    display:inline;
 }
 
 .images li {
-    display: inline;
-    float: left;
     padding: 0 15px 0 15px;
 }
 
+images2 {
+    float:right;
+}
 
 headshot {
     float: right;
