@@ -166,11 +166,11 @@ input[type=submit] {
 .images li {
     padding: 0 15px 0 15px;
 }
-images1 {
+aside {
     float: left;
 }
 
-aside {
+main {
     background-color: white;
     border-radius: 5px;
     padding-left:15px;
@@ -190,8 +190,6 @@ figcaption {
     font-size: 20px;
 }
 
-photo {
-   margin:5px auto 5px auto; 
-}
+
 
 
