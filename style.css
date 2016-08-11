@@ -99,6 +99,10 @@ a:hover {
     border-radius: 0;
  
 }
+.location li: first-child {
+    float: left;
+    border: none;
+}
 
 .location li:last-child {
     border-left: none;
