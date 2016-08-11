@@ -122,14 +122,18 @@ input[type=text] {
     height: 75px;
     border: 2px solid gray;
     font-size: 15px;
+    border-radius: 5px;
 }
 
 input[type=email] {
     font-size: 15px;
+    border-radius: 5px;
 }
 input[type=submit] {
     border: 2px solid gray;
     font-size: 15px;
+    border-radius: 5px;
+    color:#8DAAD1;
 }
 
 .prox li {
