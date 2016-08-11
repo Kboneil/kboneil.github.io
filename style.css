@@ -102,6 +102,7 @@ a:hover {
 .location li: first-child {
     float: left;
     border: none;
+    padding-right: 10px;
 }
 
 .location li:last-child {
