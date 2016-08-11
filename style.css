@@ -59,7 +59,8 @@ h1 {
     margin: 5px;
     border-left: 2px solid gray;
     line-height:15px;
-    padding:0 5px 0 5px;
+    padding:0 0 0 5px;
+    width: 100%;
 }
 
 .header li:first-child {
