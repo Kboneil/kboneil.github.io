@@ -157,6 +157,9 @@ input[type=submit] {
 .images li {
     padding: 0 15px 0 15px;
 }
+images1 {
+    float:left;
+}
 
 images2 {
     float:right;
