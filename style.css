@@ -90,19 +90,19 @@ input[type=submit] {
     border: 2px solid gray;;
 }
 
-.proX {
+.proX ul {
     list-style-type:none;
 }
 
-.location {
+.location ul {
     list-style-type:none;
 }
 
-.contact {
+.contact ul {
     list-style-type:none;
 }
 
-.school {
+.school ul {
     list-style-type:none;
 }
 
