@@ -42,12 +42,9 @@ h1 {
     background-color: #efefef;
     border-radius: 5px;
     margin: 5px;
-    color: black;
-    list-style-type:none;
-    text-transform: uppercase;
 }
 
-.nav li:first-child {
+.nav li:last-child {
     font-weight:bold;
 }
 
