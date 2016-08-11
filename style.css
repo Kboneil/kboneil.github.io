@@ -156,6 +156,11 @@ input[type=submit] {
     display:inline;
 }
 
+.images li {
+    display: inline;
+    float:right;
+}
+
 
 headshot {
     float: right;
