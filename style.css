@@ -37,12 +37,13 @@ h1 {
     padding: 10px;
     background-color: #efefef;
     border-radius: 15px;
+    margin: 10px;
+    color: black;
 }
 
 .nav ul {
     text-decoration:none;
     list-style-type:none;
-    color:white;
 }
 
 .header li {
