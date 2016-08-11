@@ -71,4 +71,10 @@ CTLC {
     opacity: .10;
 }
 
+label, input {
+    display:block;
+}
+
+
+
 
