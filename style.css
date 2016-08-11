@@ -4,8 +4,13 @@ html, body, header, footer, h1 {
     border: 0;
 }
 
+body {
+    background: gray;
+}
+
 section {
     margin:50px;
+    background: #efefef;
 }
 header {
     background-image: url("https://s31.postimg.org/6j4btyr8r/Georgia_1.jpg");
