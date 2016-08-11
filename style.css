@@ -159,10 +159,8 @@ input[type=submit] {
 }
 images1 {
     float: left;
-}
-
-images2 {
-    float:right;
+    background: white;
+    position: absolute;
 }
 
 headshot {
