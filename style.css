@@ -152,8 +152,12 @@ input[type=submit] {
 .images li {
     list-style-type:none;
     display: inline;
+    float: center;
 }
 
+headshot {
+    float: right;
+}
 
 
 
