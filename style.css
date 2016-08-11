@@ -28,10 +28,13 @@ h1 {
     display: inline;
     float:right;
     padding: 10px;
+    background-color: #efefef;
+}
+
+.nav {
     text-decoration:none;
     list-style-type:none;
     color:white;
-    background-color: #efefef;
 }
 
 .header li {
@@ -42,7 +45,7 @@ h1 {
 }
 
 Primrose {
-    background-image: url("http://a.mktgcdn.com/p/9ERLNVJswcYcyyVcMdxe3rwznFcRlplUJEYP2pJlCHs/679x453.jpg")
+    background-image: url("http://a.mktgcdn.com/p/9ERLNVJswcYcyyVcMdxe3rwznFcRlplUJEYP2pJlCHs/679x453.jpg");
     opacity: .10;
 }
 
