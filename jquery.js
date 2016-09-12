@@ -1,5 +1,5 @@
-$(document).ready (function (){
-$('body').on('click','h2',function(){
-$(this).find('expand').fadeToggle();
+$(document).ready(function (){
+  $('section').on('click', 'h2', function(){
+  $(this).closest('section').find('expand').fadeToggle();
 });
 });
