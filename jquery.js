@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('section').on('click', function() {
-    $(this).closest('section').find('expand').slideToggle();
+  $('h2').on('click', function() {
+    $('section').find('expand').slideToggle();
   });
 });
