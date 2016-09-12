@@ -47,6 +47,10 @@ h2 {
     color:#8DAAD1;
 }
 
+.expand {
+    display: none;
+}
+
 h3 {
     font-family:'bodoni MT', 'Times New Roman';
     font-size:20px;
