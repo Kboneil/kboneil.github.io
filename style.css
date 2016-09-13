@@ -176,11 +176,7 @@ aside {
 }
 
 main {
-    background-color: white;
-    border-radius: 5px;
-    padding-left:15px;
-    margin-left:230px;
-    margin-right:10px;
+   float: right;
 }
 headshot {
     float: right;
