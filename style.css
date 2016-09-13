@@ -180,11 +180,10 @@ input[type=submit] {
 
 .images {
     list-style-type:none;
-    display: inline-block;
+    text-align: center;
 }
 
 .images li {
-    padding: 0 15px 0 15px;
     display: inline-block;
     margin: auto;
 }
