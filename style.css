@@ -173,20 +173,10 @@ input[type=submit] {
     
 }
 
-.images {
-    list-style-type:none;
-}
-
-.images li {
-    padding: 0 15px 0 15px;
-}
-
-
-figcaption {
-    text-align:center;
-    padding:15px;
-    color:#5C7780
-    font-size: 20px;
+headshot {
+    display: block;
+    margin: auto;
+    width: 40%;
 }
 
 
