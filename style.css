@@ -186,6 +186,7 @@ input[type=submit] {
 .images li {
     padding: 0 15px 0 15px;
     display: inline-block;
+    margin: auto;
 }
 
 
