@@ -183,5 +183,8 @@ figcaption {
     padding: 15px;
 }
 
+.location li:fist-child:before{
+    content: "&#9830";
+}
 
 
