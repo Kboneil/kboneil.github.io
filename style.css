@@ -181,7 +181,6 @@ input[type=submit] {
 .images {
     list-style-type:none;
     display: inline-block;
-    text-align: justify;
 }
 
 .images li {
