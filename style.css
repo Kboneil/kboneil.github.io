@@ -176,7 +176,6 @@ input[type=submit] {
 .headshot {
     display: block;
     margin: auto;
-    width: 40%;
 }
 
 .images {
@@ -186,6 +185,7 @@ input[type=submit] {
 
 .images li {
     padding: 0 15px 0 15px;
+    display: inline-block;
 }
 
 
