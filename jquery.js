@@ -1,3 +1,9 @@
+$(document).ready(function() {
+  $('h2').on('click', function() {
+    $('expand').slideToggle();
+  });
+});
+
    $(function($){
         var addToAll = false;
         var gallery = true;
@@ -16,10 +22,3 @@
         });
     });
     $.noConflict();
-
-$(document).ready(function() {
-  $('h2').on('click', function() {
-    $('expand').slideToggle();
-  });
-});
-
