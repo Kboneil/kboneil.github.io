@@ -203,12 +203,11 @@ html, body {
 }
 
 wrapper {
-	min-height: 100%;
 	height: 100%;
 	position:relative;
-	margin: 0 auto -20px; 
+	padding-bottom:; -20px; 
 }
-footer, .push {
+footer {
 	height: 20px;
 	position:absolute;
 	bottom:0;
