@@ -1,10 +1,4 @@
-$(document).ready(function() {
-  $('h2').on('click', function() {
-    $('expand').slideToggle();
-  });
-});
-
-$(function($){
+   $(function($){
         var addToAll = false;
         var gallery = true;
         var titlePosition = 'inside';
@@ -22,3 +16,10 @@ $(function($){
         });
     });
     $.noConflict();
+
+$(document).ready(function() {
+  $('h2').on('click', function() {
+    $('expand').slideToggle();
+  });
+});
+
