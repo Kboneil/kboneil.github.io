@@ -154,7 +154,7 @@ input[type=submit] {
 .headshot {
     display: block;
     margin: auto;
-    width:50%;
+    width:75%;
     overflow: hidden;
 }
 
@@ -162,13 +162,13 @@ input[type=submit] {
     list-style-type:none;
     text-align: center;
     overflow: hidden;
+    height:20%;
     
 }
 
 .images li {
     display: inline-block;
     margin: auto;
-    height: 150px;
    
 }
 
