@@ -45,6 +45,7 @@ h2 {
     border-bottom: 2px solid #5C7780;
     padding:15px;
     color:#8DAAD1;
+    cursor: pointer;
 }
 
 expand {
