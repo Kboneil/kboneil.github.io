@@ -198,8 +198,19 @@ a.fancybox:hover img {
         position: relative; z-index: 999; -o-transform: scale(1.03,1.03); -ms-transform: scale(1.03,1.03); -moz-transform: scale(1.03,1.03); -webkit-transform: scale(1.03,1.03); transform: scale(1.03,1.03);
     }
     
-footer { 
-    display: block;
+html, body {
+	height: 100%;
 }
+
+wrapper {
+	min-height: 100%;
+	height: auto !important; 
+	height: 100%;
+	margin: 0 auto -100px; 
+}
+footer, .push {
+	height: 100px; /* .push must be the same height as .footer */
+}
+
 
 
