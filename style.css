@@ -162,12 +162,13 @@ input[type=submit] {
     list-style-type:none;
     text-align: center;
     overflow: hidden;
-    height: 150px;
+    
 }
 
 .images li {
     display: inline-block;
     margin: auto;
+    height: 150px;
    
 }
 
